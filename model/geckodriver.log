@@ -1,0 +1,573 @@
+1537499086224	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.OKpcEFMj1BN4"
+1537499090774	Marionette	INFO	Listening on port 60532
+1537499091144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537499091170	Marionette	DEBUG	[6442450945] Frame script loaded
+1537499091171	Marionette	DEBUG	[6442450945] Frame script registered
+1537499091187	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537499093149	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537499099082	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537499101237	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+[Parent 17264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15908, Chrome_ChildThread[Parent 17264, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/1537499105102	Marionette	INFO	Stopped listening on port 60532
+[GPU 169
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1537499176750	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.yslBB7WwUJkk"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537499180375	Marionette	INFO	Listening on port 60876
+1537499180571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537499180596	Marionette	DEBUG	[6442450945] Frame script loaded
+1537499180609	Marionette	DEBUG	[6442450945] Frame script registered
+1537499180623	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537499182445	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537499185033	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537499185649	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537499195738	Marionette	INFO	Stopped listening on port 60876
+[Child 12944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12944, Chrome_ChildThread] WARNING: pipe error: 10[Parent 15120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15120, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6272, Chrome_ChildThread1537499320468	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.6B5XHPJfMDa2"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537499323766	Marionette	INFO	Listening on port 61458
+1537499323796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537499323821	Marionette	DEBUG	[6442450945] Frame script loaded
+1537499323822	Marionette	DEBUG	[6442450945] Frame script registered
+1537499323837	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537499325439	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537499327083	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537499328418	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537499538106	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.JGSfxjjmU9vz"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537499541935	Marionette	INFO	Listening on port 62222
+1537499542425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537499542448	Marionette	DEBUG	[6442450945] Frame script loaded
+1537499542449	Marionette	DEBUG	[6442450945] Frame script registered
+1537499542459	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537499545252	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537499547861	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537499548638	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537499559679	Marionette	INFO	Stopped listening on port 62222
+[Child 19344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b[Parent 10424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17072, Chrome_ChildThr1537509686384	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.8tBWahK8ydYD"
+*** You are running in headless mode.
+1537509696302	Marionette	INFO	Listening on port 54340
+1537509696733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537509696760	Marionette	DEBUG	[4294967297] Frame script loaded
+1537509696804	Marionette	DEBUG	[4294967297] Frame script registered
+1537509698058	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537509699726	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537509701015	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537509702678	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537509713153	Marionette	INFO	Stopped listening on port 54340
+[Parent 19580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19960, Chrome_ChildThread] WARNING: pipe error[Parent 19580, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 19580, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 19580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537510159618	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.pw9zm3YKMHcf"
+*** You are running in headless mode.
+1537510164765	Marionette	INFO	Listening on port 56518
+1537510165043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537510165107	Marionette	DEBUG	[6442450945] Frame script loaded
+1537510165109	Marionette	DEBUG	[6442450945] Frame script registered
+1537510165120	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537510168350	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537510169406	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537510172405	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537510183367	Marionette	INFO	Stopped listening on port 56518
+[Parent 14616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20048, [Parent 14616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537511336184	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.WGXxSz0rmT2c"
+*** You are running in headless mode.
+1537511341241	Marionette	INFO	Listening on port 62717
+1537511341612	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537511341640	Marionette	DEBUG	[6442450945] Frame script loaded
+1537511341641	Marionette	DEBUG	[6442450945] Frame script registered
+1537511341654	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537511343897	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537511345301	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537511347869	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537511358735	Marionette	INFO	Stopped listening on port 62717
+[Child 1732, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1732, Chrome_ChildThread] WARNING:[Parent 13732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14580, Chrome_ChildThr1537511424073	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.dRpcBvaRdyf6"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537511428267	Marionette	INFO	Listening on port 63265
+1537511428390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537511428414	Marionette	DEBUG	[6442450945] Frame script loaded
+1537511428415	Marionette	DEBUG	[6442450945] Frame script registered
+1537511428426	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537511429986	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537511431755	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537511432662	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537511443441	Marionette	INFO	Stopped listening on port 63265
+[Child 13148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13148, Chrome_ChildThread] WARNING: pi[Child 16924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16924, Chrome_ChildThrea[Parent 16660, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537511464566	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.dQIlBZv2MLoC"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537511467702	Marionette	INFO	Listening on port 63513
+1537511467812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537511467882	Marionette	DEBUG	[6442450945] Frame script loaded
+1537511467895	Marionette	DEBUG	[6442450945] Frame script registered
+1537511467912	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537511469666	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537511470629	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537511472218	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537511483047	Marionette	INFO	Stopped listening on port 63513
+[Parent 11536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12492, Chrome1537511526197	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.NAAyzSxEjvGB"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537511529302	Marionette	INFO	Listening on port 63857
+1537511529430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537511529465	Marionette	DEBUG	[6442450945] Frame script loaded
+1537511529465	Marionette	DEBUG	[6442450945] Frame script registered
+1537511529481	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537511531465	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537511532497	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537511533457	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537511544284	Marionette	INFO	Stopped listening on port 63857
+[Child 8292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1876, Chrome_ChildThrea[Parent 16360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15668, Chrome_ChildThread] WARNING: pi1537511672066	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.I6ti9WhE2vyj"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537511675180	Marionette	INFO	Listening on port 64730
+1537511675285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537511675314	Marionette	DEBUG	[6442450945] Frame script loaded
+1537511675315	Marionette	DEBUG	[6442450945] Frame script registered
+1537511675327	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537511676650	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537511678510	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537511679378	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537511690203	Marionette	INFO	Stopped listening on port 64730
+[Child 1800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1800, Chrome_ChildThread] WARNING: pipe error: 109: fil[Parent 7244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537519984532	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.QpTMPTqeq6HV"
+*** You are running in headless mode.
+1537519996721	Marionette	INFO	Listening on port 57281
+1537519998049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537519998225	Marionette	DEBUG	[4294967297] Frame script loaded
+1537519998974	Marionette	DEBUG	[4294967297] Frame script registered
+1537520002605	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537520006048	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537520009756	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537520011063	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537520022010	Marionette	INFO	Stopped listening on port 57281
+[Parent 16436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16436, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 16436, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 16436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537520145051	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.SruyjFL9FYkY"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537520150299	Marionette	INFO	Listening on port 58323
+1537520150489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537520153009	Marionette	DEBUG	[6442450945] Frame script loaded
+1537520153010	Marionette	DEBUG	[6442450945] Frame script registered
+1537520153033	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537520154148	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537520155144	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537520156846	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537520167678	Marionette	INFO	Stopped listening on port 58323
+[Parent 17212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19480, Chr1537520186366	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.kmnQPcrjnMac"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537520189991	Marionette	INFO	Listening on port 58575
+1537520190183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537520190211	Marionette	DEBUG	[6442450945] Frame script loaded
+1537520190212	Marionette	DEBUG	[6442450945] Frame script registered
+1537520190222	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537520191305	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537520193064	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537520194513	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537520205355	Marionette	INFO	Stopped listening on port 58575
+[Parent 16136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5044, Chrome_ChildThread] WARNI[Parent 16136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium1537520407645	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.jpuyatW9gXaW"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537520410895	Marionette	INFO	Listening on port 59696
+1537520410964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537520410987	Marionette	DEBUG	[6442450945] Frame script loaded
+1537520410990	Marionette	DEBUG	[6442450945] Frame script registered
+1537520411008	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537520413487	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537520414470	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537520415909	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537520462591	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.wGZPXILLDtAW"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537520465937	Marionette	INFO	Listening on port 60025
+1537520466416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537520466439	Marionette	DEBUG	[6442450945] Frame script loaded
+1537520466439	Marionette	DEBUG	[6442450945] Frame script registered
+1537520466451	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537520467982	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537520468981	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537520470745	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537520553233	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.3bzKoenNFo6S"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537520556476	Marionette	INFO	Listening on port 60518
+1537520556554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537520556580	Marionette	DEBUG	[6442450945] Frame script loaded
+1537520556583	Marionette	DEBUG	[6442450945] Frame script registered
+1537520556593	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537520558023	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537520559837	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537520560901	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537520571709	Marionette	INFO	Stopped listening on port 60518
+[Child 17536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17536, Chrome_ChildThread] WARNI[Parent 19848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11512,[Parent 19848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537842628117	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.DSIVDip1BvpB"
+*** You are running in headless mode.
+[Parent 12884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12884, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 335)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:335:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:328:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:352:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:392:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:64:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1537842664020	Marionette	INFO	Listening on port 51779
+1537842665087	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537842665133	Marionette	DEBUG	[6442450945] Frame script loaded
+1537842665547	Marionette	DEBUG	[6442450945] Frame script registered
+1537842668133	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537842682031	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537842690809	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537842692711	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537843299772	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.PGykjJcNV0ZW"
+*** You are running in headless mode.
+1537843325393	Marionette	INFO	Listening on port 53123
+[Child 11168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11168, Chrome_ChildThread] 1537843325681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537843325739	Marionette	DEBUG	[6442450945] Frame script loaded
+1537843325742	Marionette	DEBUG	[6442450945] Frame script registered
+1537843325759	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537843327573	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537843329311	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537843332089	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537843407630	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.sDk7k5GjJqEP"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537843411641	Marionette	INFO	Listening on port 53411
+1537843412035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537843412057	Marionette	DEBUG	[6442450945] Frame script loaded
+1537843412058	Marionette	DEBUG	[6442450945] Frame script registered
+1537843412069	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537843415063	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537843417121	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537843418326	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537843429341	Marionette	INFO	Stopped listening on port 53411
+[Parent 4448, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 4448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8400, Chro[Parent 4448, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537843512593	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.et1ElPWGHSHW"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537843516477	Marionette	INFO	Listening on port 53712
+1537843516506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537843516530	Marionette	DEBUG	[6442450945] Frame script loaded
+1537843516533	Marionette	DEBUG	[6442450945] Frame script registered
+1537843516569	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537843519921	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537843521477	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537843522395	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537843533403	Marionette	INFO	Stopped listening on port 53712
+[Parent 7092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4952, Chrome1537843732639	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.TrgJ98Sv9zT5"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537843735662	Marionette	INFO	Listening on port 54135
+1537843735855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537843735878	Marionette	DEBUG	[6442450945] Frame script loaded
+1537843735880	Marionette	DEBUG	[6442450945] Frame script registered
+1537843735890	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537843738846	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537843739842	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537843740618	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537843950810	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.Z88OE4WneRqy"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537843954756	Marionette	INFO	Listening on port 54560
+1537843955125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537843955152	Marionette	DEBUG	[6442450945] Frame script loaded
+1537843955154	Marionette	DEBUG	[6442450945] Frame script registered
+1537843955165	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537843957818	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537843958770	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537843959410	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537844061998	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.Oj0dv1XkirpD"
+*** You are running in headless mode.
+1537844066794	Marionette	INFO	Listening on port 54843
+1537844066926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537844066996	Marionette	DEBUG	[6442450945] Frame script loaded
+1537844066998	Marionette	DEBUG	[6442450945] Frame script registered
+1537844067008	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537844070012	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537844071680	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537844072648	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537844162746	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.TVeE5dCL5J9P"
+*** You are running in headless mode.
+1537844167642	Marionette	INFO	Listening on port 54984
+1537844167668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537844167693	Marionette	DEBUG	[6442450945] Frame script loaded
+1537844167727	Marionette	DEBUG	[6442450945] Frame script registered
+1537844167742	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537844170560	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537844172113	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537844174187	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537844238514	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.HJI9KAhNBZEu"
+*** You are running in headless mode.
+1537844243590	Marionette	INFO	Listening on port 55133
+1537844243951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537844244038	Marionette	DEBUG	[6442450945] Frame script loaded
+1537844244040	Marionette	DEBUG	[6442450945] Frame script registered
+1537844244053	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537844247849	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537844249733	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537844251506	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537846673276	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.ySlQWTNXdOzo"
+*** You are running in headless mode.
+1537846678934	Marionette	INFO	Listening on port 56976
+1537846679534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537846679558	Marionette	DEBUG	[4294967297] Frame script loaded
+1537846679565	Marionette	DEBUG	[4294967297] Frame script registered
+1537846679607	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537846682133	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537846683331	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537846684613	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537846747896	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.L69zMXUsmSIt"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537846751755	Marionette	INFO	Listening on port 57165
+1537846752221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537846752297	Marionette	DEBUG	[6442450945] Frame script loaded
+1537846752298	Marionette	DEBUG	[6442450945] Frame script registered
+1537846752312	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537846754908	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537846756357	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537846757142	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537846843394	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.8GpRXWKVbunC"
+*** You are running in headless mode.
+1537846848245	Marionette	INFO	Listening on port 57380
+1537846848319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537846848345	Marionette	DEBUG	[6442450945] Frame script loaded
+1537846848346	Marionette	DEBUG	[6442450945] Frame script registered
+1537846848357	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537846851606	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537846853213	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537846854187	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537847024280	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.UiZavRIi21pH"
+*** You are running in headless mode.
+1537847040589	Marionette	INFO	Listening on port 58140
+1537847040729	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15836, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537847040801	Marionette	DEBUG	[6442450945] Frame script loaded
+1537847040802	Marionette	DEBUG	[6442450945] Frame script registered
+1537847040815	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537847042096	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537847043370	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537847045069	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537847056393	Marionette	INFO	Stopped listening on port 58140
+[Child 14100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14100, Chrome_ChildThread] WARNING: pipe error[Parent 17144, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 17144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17144, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc1537847076290	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.0c8XqgdyP1ha"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537847080124	Marionette	INFO	Listening on port 58430
+1537847080616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537847080675	Marionette	DEBUG	[6442450945] Frame script loaded
+1537847080676	Marionette	DEBUG	[6442450945] Frame script registered
+1537847080717	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537847083037	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537847083920	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537847085556	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537847096918	Marionette	INFO	Stopped listening on port 58430
+[Child 17096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537854645408	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.n9H1dnm8WRu8"
+*** You are running in headless mode.
+1537854651597	Marionette	INFO	Listening on port 50834
+1537854651655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537854651677	Marionette	DEBUG	[6442450945] Frame script loaded
+1537854651682	Marionette	DEBUG	[6442450945] Frame script registered
+1537854651693	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537854654588	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537854656116	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537854657506	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537854668922	Marionette	INFO	Stopped listening on port 50834
+[Parent 11908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537854813812	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.IXr027aaLH33"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537854817176	Marionette	INFO	Listening on port 50989
+1537854817198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537854817222	Marionette	DEBUG	[6442450945] Frame script loaded
+1537854817224	Marionette	DEBUG	[6442450945] Frame script registered
+1537854817257	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537854820434	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537854822247	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537854823024	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537854834287	Marionette	INFO	Stopped listening on port 50989
+[Parent 2552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537854991785	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.ALmt44bSNPuG"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537854995365	Marionette	INFO	Listening on port 51098
+1537854995681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537854995769	Marionette	DEBUG	[6442450945] Frame script loaded
+1537854995771	Marionette	DEBUG	[6442450945] Frame script registered
+1537854995797	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537854998162	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537854999870	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537855001578	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537855013032	Marionette	INFO	Stopped listening on port 51098
+[Child 6476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, l[Child[Parent 11596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4036, Chrome_C1537855043459	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.2Ja80luzzGmE"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537855047166	Marionette	INFO	Listening on port 51168
+1537855047352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537855047375	Marionette	DEBUG	[6442450945] Frame script loaded
+1537855047376	Marionette	DEBUG	[6442450945] Frame script registered
+1537855047393	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537855050367	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537855052140	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537855052989	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537855064317	Marionette	INFO	Stopped listening on port 51168
+[Child 10056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/ch[Parent 10168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12204,[Parent 10168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1537855102210	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.NXUbthuFFhoo"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537855105826	Marionette	INFO	Listening on port 51237
+1537855106100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537855106141	Marionette	DEBUG	[6442450945] Frame script loaded
+1537855106142	Marionette	DEBUG	[6442450945] Frame script registered
+1537855106154	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537855108971	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537855110200	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537855111199	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537855122527	Marionette	INFO	Stopped listening on port 51237
+[Child 2584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12028, Chrome_ChildThread] WARNING:[Parent 6352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1537855286418	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.RdQaNYbbFZUS"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537855289789	Marionette	INFO	Listening on port 51503
+1537855290278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537855290320	Marionette	DEBUG	[6442450945] Frame script loaded
+1537855290320	Marionette	DEBUG	[6442450945] Frame script registered
+1537855290331	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537855293049	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537855294913	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537855295579	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537855306964	Marionette	INFO	Stopped listening on port 51503
+[Parent 7288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[Parent 7288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/1537855318702	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.mKvSuOYg156T"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537855322325	Marionette	INFO	Listening on port 51565
+1537855322573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537855322597	Marionette	DEBUG	[6442450945] Frame script loaded
+1537855322598	Marionette	DEBUG	[6442450945] Frame script registered
+1537855322613	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537855325775	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537855326699	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537855328130	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537855339531	Marionette	INFO	Stopped listening on port 51565
+[Child 11464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11464, [Parent 8732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8732, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 110721537855358344	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.PsLhrLdPzDRz"
+*** You are running in headless mode.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1537855361751	Marionette	INFO	Listening on port 51626
+1537855362185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537855362211	Marionette	DEBUG	[6442450945] Frame script loaded
+1537855362211	Marionette	DEBUG	[6442450945] Frame script registered
+1537855362225	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537855364763	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537855367151	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537855367876	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537855379246	Marionette	INFO	Stopped listening on port 51626
+[Parent 8932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3796, C1537868716260	mozrunner::runner	INFO	Running command: "G:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\lzp\\AppData\\Local\\Temp\\rust_mozprofile.pFcf6D7bN6zc"
+*** You are running in headless mode.
+[Child 10780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10780, Chrome_ChildThre1537868731469	Marionette	INFO	Listening on port 57418
+1537868731988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537868732014	Marionette	DEBUG	[4294967297] Frame script loaded
+1537868732103	Marionette	DEBUG	[4294967297] Frame script registered
+1537868732949	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1537868736295	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1537868738851	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.zhihu.com/people/zhipengliu/following
+1537868742173	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.zhihu.com/people/zhipengliu/following
+1537868753599	Marionette	INFO	Stopped listening on port 57418
+[Parent 11592, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11592, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
